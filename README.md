@@ -5,7 +5,7 @@ to view the movie trailer.
 ## To Run:
 * Clone the repo `git clone http://github.com/jessourand/project1.git`
 * Using python, run the file with `python entertainment_center.py`
-* Click your favorite movie images to watch their cinematic trailer.
+* Click your favorite movie image to watch its cinematic trailer.
 
 ## Creators:
 * Jess Ourand
