@@ -8,5 +8,5 @@ to view the movie trailer.
 * Click your favorite movie images to watch their cinematic trailer.
 
 ## Creators:
-Jess Ourand
-Kunal from Udacity
+* Jess Ourand
+* Kunal from Udacity
